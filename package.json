@@ -1,0 +1,19 @@
+{
+  "name": "mark-up-template",
+  "version": "1.0.0",
+  "description": "コーポレートサイト用リポジトリ",
+  "scripts": {
+    "start": "reload -b"
+  },
+  "repository": "git+https://github.com/YuYoshida7211/mark-up-template.git",
+  "author": "Yu Yoshida <yoshida@respawn.jp>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuYoshida7211/mark-up-template/issues"
+  },
+  "homepage": "https://github.com/YuYoshida7211/mark-up-template#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "reload": "^3.2.0"
+  }
+}
