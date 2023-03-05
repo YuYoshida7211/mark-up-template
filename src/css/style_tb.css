@@ -1,0 +1,9 @@
+body {
+  /* basic style */
+  font-family: 'Noto Sans JP';
+  color: #333;
+  line-height: 1.5;
+}
+
+@media screen and (min-width: 376px) {
+}
